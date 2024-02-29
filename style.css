@@ -8,7 +8,7 @@
   
   nav {
     height: 80px;
-    background: #fdcc04;
+    background: #16a929;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,7 +34,7 @@
   }
   
   .hero {
-    background: #fdcc04;
+    background: #16a929;
   }
   
   .hero-container {
@@ -68,7 +68,7 @@
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
-    color: #fdcc04;
+    color: #16a929;
     background: #000;
     cursor: pointer;
     border-radius: 50px;
